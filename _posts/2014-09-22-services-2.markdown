@@ -2,9 +2,9 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Copywriting 
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+Well written content is one of the most vital ways you can do well on search results and build genuine community with your customers. I will also do keyword and compeitor research to make sure the content I write for you is increasing visability in key areas for your business.  <br /> 
+
+I can write compelling blog content, social media posts, and meta descriptions for your website. I can also help advise you to be your own copywriter.   
