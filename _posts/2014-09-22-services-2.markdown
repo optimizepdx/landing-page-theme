@@ -3,7 +3,7 @@ layout: default
 img: dog.png
 category: Services
 title: Copywriting 
-description: |
+description: Copywriting services I provide in Portland, OR
 ---
 Well written content is one of the most vital ways you can do well on search results and build genuine community with your customers. I will also do keyword and compeitor research to make sure the content I write for you is increasing visability in key areas for your business.  <br /> 
 
