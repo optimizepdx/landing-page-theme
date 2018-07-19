@@ -1,9 +1,10 @@
  ---
-layout: default
+
 img: ipad.png
-category: Services
-title: SEO Services 
-description: |
+
+SEO Services 
+
 ---
-  I will work with each client to make sure you have SEO best practices implemented and make sure your business is hyperrelevant to the Portland, Oreogn market. According to a Google study, 50% of consumers who conduct a smartphone search visit a store in person within a day. 34% of those who search on desktop or tablet visit in person. Local SEO and showing up on the front page of search engines is what will help you be the one benefiting from search! <br /> 
-  Methods will vary depending on your business needs but on-page recommendations, Google My Business pages and Google maps review, keyword analysis, and responsible review building are among just a few of the options I can offer your business. br /> 
+  I will work with each client to make sure you have SEO best practices implemented and make sure your business is hyperrelevant to the Portland, Oreogn market. According to a Google study, 50% of consumers who conduct a smartphone search visit a store in person within a day. 34% of those who search on desktop or tablet visit in person. Local SEO and showing up on the front page of search engines is what will help you be the one benefiting from search! 
+  <br /> 
+  Methods will vary depending on your business needs but on-page recommendations, Google My Business pages and Google maps review, keyword analysis, and responsible review building are among just a few of the options I can offer your business. 
