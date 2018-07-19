@@ -6,10 +6,9 @@ url: http://optimizepdx.com
 title: Molly O'Brien
 email: molly.optimizepdx@gmail.com
 author: Molly O'Brien
-description: > # Molly O'Brien provides search engine optimization services for local Portland, Oregon businesses. Molly is also an experienced copywriter who can help Portland businesses have great blog, social media, or meta content. 
-
+description: Molly O'Brien provides search engine optimization services for local Portland, Oregon businesses. Molly is also an experienced copywriter who can help Portland businesses have great blog, social media, or meta content. 
 copyright: "Copyright &copy; 2018 Molly O'Brien. All Rights Reserved."
-# credits: "Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href='http://startbootstrap.com/'>Start Bootstrap</a>."
+
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
@@ -25,4 +24,6 @@ permalink: pretty
 social:
   - title: linkedin
     url: https://wwww.linkedin.com/in/molly-o-brien-62882a38
-    
+social:
+  - title: email
+    url: mailto:molly.optimizepdx@gmail.com
