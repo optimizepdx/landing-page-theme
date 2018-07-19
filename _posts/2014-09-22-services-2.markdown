@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: copy.png
 category: Services
 title: Copywriting 
 description: Copywriting services I provide in Portland, OR

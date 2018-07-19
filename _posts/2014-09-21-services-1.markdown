@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: seo.png
 category: Services
 title: SEO Services
 description: SEO services I provide in Portland, OR.
