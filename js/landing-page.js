@@ -2,9 +2,15 @@
 $(function() {
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
+        // Account for Sticky Header Offset
+        if (window.innerWidth <= 767) {
+            var scrollDistance = $($anchor.attr('href')).offset().top - $(".navbar-collapse").height() + $(".navbar-nav").height()
+        } else {
+            var scrollDistance = $($anchor.attr('href')).offset().top - $(".navbar-collapse").height()
+        }
+        // Animation Call
         $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top - $(".navbar-collapse").height() // Account for Sticky Header Offset
-        }, 1500, 'easeInOutExpo');
+            scrollTop: scrollDistance
         event.preventDefault();
     });
 });
