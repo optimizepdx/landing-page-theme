@@ -22,6 +22,10 @@ h6 {
     font-size: 16px;
 }
 
+#about p {
+    font-size: 18px;
+}
+
 .lead {
     font-size: 16px;
     font-weight: 400;
@@ -109,6 +113,21 @@ h6 {
     width: 200px;
     border-top: 3px solid #e7e7e7;
 }
+.content-section-a .img-responsive, .content-section-b .img-responsive {
+    max-height: 400px;
+    margin: 0 auto;
+}
+
+@media(max-width:767px) {
+    .content-section-a, .content-section-b {
+        text-align: center;
+    }
+    .content-section-a .img-responsive, .content-section-b .img-responsive {
+        max-width: 60%;
+        margin: 0 auto;
+    }
+
+}
 
 .banner {
     padding: 100px 0;
@@ -119,7 +138,7 @@ h6 {
 .banner h2 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-    font-size: 3em;
+    font-size: 2em;
 }
 
 .banner ul {
