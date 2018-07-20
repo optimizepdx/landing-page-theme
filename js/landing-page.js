@@ -11,6 +11,7 @@ $(function() {
         // Animation Call
         $('html, body').stop().animate({
             scrollTop: scrollDistance
+        }, 1200, 'easeIn');
         event.preventDefault();
     });
 });
