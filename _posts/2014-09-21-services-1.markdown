@@ -2,7 +2,7 @@
 layout: default
 img: seo.png
 category: Services
-title: SEO Services
+title: SEO
 description: SEO services I provide in Portland, OR.
 ---
 <p>
