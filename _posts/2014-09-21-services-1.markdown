@@ -5,6 +5,9 @@ category: Services
 title: SEO Services
 description: SEO services I provide in Portland, OR.
 ---
-According to a Google study, 34% of people who visit a business page through a search engine on a desktop or tablet visit a brick and mortar store in-person within a day. This number jumps to <strong>50%</strong> for people searching with a smartphone. 
-<br />
-Having your business on the front page of search results is a proven way to support your business both online and in-person. Whether your business is a local boutique or an multinational organization, great SEO is a powerful tool to share your brand with your audience, build your customer base, and improve conversions. 
+<p>
+	According to a Google study, 34% of people who visit a business page through a search engine on a desktop or tablet visit a brick and mortar store in-person within a day. This number jumps to <strong>50%</strong> for people searching with a smartphone. 
+</p>
+<p>
+	Having your business on the front page of search results is a proven way to support your business both online and in-person. Whether your business is a local boutique or an multinational organization, great SEO is a powerful tool to share your brand with your audience, build your customer base, and improve conversions. 
+</p>

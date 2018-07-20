@@ -5,6 +5,9 @@ category: Services
 title: Copywriting 
 description: Copywriting services I provide in Portland, OR
 ---
-Well written content can increase engagement with your customers, build a genuine conversation with your community, and is essential for high-ranking search results. SEO techniques such as keyword research can help supercharge your prose and increase visibility for key business areas.
-<br /> 
-I am adept at writing compelling blog content, social media posts, and ever-important website meta descriptions. I can also advise you on how to be your own copywriter and equip you with strategies that will help improve your search rankings and visibility. 
+<p>
+	Well written content can increase engagement with your customers, build a genuine conversation with your community, and is essential for high-ranking search results. SEO techniques such as keyword research can help supercharge your prose and increase visibility for key business areas.
+</p>
+<p>
+	I am adept at writing compelling blog content, social media posts, and ever-important website meta descriptions. I can also advise you on how to be your own copywriter and equip you with strategies that will help improve your search rankings and visibility. 
+</p>
