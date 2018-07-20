@@ -4,9 +4,9 @@ $(function() {
         var $anchor = $(this);
         // Account for Sticky Header Offset
         if (window.innerWidth <= 767) {
-            var scrollDistance = $($anchor.attr('href')).offset().top - $(".navbar-collapse").height() + $(".navbar-nav").height()
+            var scrollDistance = $($anchor.attr('href')).offset().top - $(".navbar-collapse").height() + $(".navbar-nav").height();
         } else {
-            var scrollDistance = $($anchor.attr('href')).offset().top - $(".navbar-collapse").height()
+            var scrollDistance = $($anchor.attr('href')).offset().top - $(".navbar-collapse").height();
         }
         // Animation Call
         $('html, body').stop().animate({
