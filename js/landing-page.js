@@ -26,8 +26,8 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
-// Add Parallax Effect to Banner
-$('.intro-header').parallaxify();
+// Initialize Parallaxify
+// $(window).parallaxify();
 
 
 // $('div.modal').on('show.bs.modal', function() {
